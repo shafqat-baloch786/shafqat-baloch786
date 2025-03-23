@@ -32,6 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafqat-baloch/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shafqatbaloch875@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01441bb37d349756ef)
 
 ---
 
